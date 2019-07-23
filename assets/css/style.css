@@ -1,0 +1,49 @@
+body {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#quiz {
+   
+    background-position: top;
+    background-attachment: absolute;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+}
+
+
+
+.jumbotron {
+   
+    background-size: 10%;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.row {
+    padding:10px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 3px 5px 7px rebeccapurple ;
+}
+
+p {
+        color: black;
+   }
+
+button{
+    padding: 5px;
+    font-weight: bold;
+}
+
+.answers {
+    vertical-align:center;
+
+
+}
