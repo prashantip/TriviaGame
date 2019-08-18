@@ -33,7 +33,7 @@ body {
     margin-bottom: 30px;
 }
 
-#Quiz, #Results{
+#Quiz, #results{
     font-size: 18px;
     color:  darkorange;
     background: rgba(0, 0, 0, .8);
